@@ -86,7 +86,7 @@ public class Assignment extends Base{
 			setCDriver();
 		}else {
 			setfDriver();
-		}
+		} 
 
 		try {
 			driver().get("https://demoqa.com/selectable/");
