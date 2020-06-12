@@ -6,9 +6,7 @@
       <class name="Selenium.Assignment">
         <methods>
           <include name="closeDriver"/>
-          <include name="makemytrip" invocation-numbers="1"/>
           <include name="selectall" invocation-numbers="1"/>
-          <include name="selectDropDown" invocation-numbers="1"/>
         </methods>
       </class> <!-- Selenium.Assignment -->
     </classes>
